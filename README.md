@@ -43,7 +43,7 @@ sempre buscando aprender e evoluir profissionalmente.
 🏅 **Aluno Destaque** – Recebi esse reconhecimento no **Instituto Federal de Educação, Ciência e Tecnologia - Charqueadas** (2023).
 
 ## 📫 Como me encontrar
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mateuspereslopes)  
+- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/mateuspereslopes)  
 - 📧 E-mail: mateuspereslopesl@outlook.com  
 - 🌎 Portfólio: [GitHub](https://github.com/mateussperess)  
 
