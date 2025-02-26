@@ -44,7 +44,7 @@ sempre buscando aprender e evoluir profissionalmente.
 
 ## 📫 Como me encontrar
 - 🔗 LinkedIn: [@mateuspereslopes](https://www.linkedin.com/in/mateuspereslopes)  
-- 📧 E-mail: [Clique aqui para contatar-me](mateuspereslopesl@outlook.com)  
+- 📧 E-mail: [mateuspereslopesl@outlook.com](mateuspereslopesl@outlook.com)  
 - 🌎 Portfólio: [@mateussperess](https://github.com/mateussperess)  
 
 ---
