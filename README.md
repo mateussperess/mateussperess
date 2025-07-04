@@ -9,8 +9,8 @@
 ## 📌 Sobre mim
 Sou estudante do curso **Tecnologia em Sistemas para Internet** no **Instituto Federal de Charqueadas (IFSUL)**.  
 Possuo mais de **2 anos de experiência** na área de TI e já trabalhei com diversas tecnologias e projetos.  
-Atualmente, estou focado em desenvolvimento em **ADVPL**, linguagem desenvolvida para o sistema **Protheus da Totvs**.
-Em contrapartida, já trabalhei com outras linguagens como **PHP**, **Python** e também **JavaScript**, além de linguagens
+Atualmente, estou focado em desenvolvimento em **PHP**.
+Em contrapartida, já trabalhei com outras linguagens como **Python** e também **JavaScript**, **ADVPL**, além de linguagens
 direcionadas ao front-end, como **HTML** e **CSS**, com aprimoramento em **Bootstrap**, **Sass** e **Tailwind CSS**, alinhando-me ao desenvolvimento **full-stack**
 sempre buscando aprender e evoluir profissionalmente.
 
@@ -19,9 +19,9 @@ sempre buscando aprender e evoluir profissionalmente.
 ## 🛠️ Tecnologias e Ferramentas  
 
 ### 🚀 **Linguagens**  
-🔹 **ADVPL** – Desenvolvimento para o sistema **Protheus (Totvs)**  
 🔹 **PHP | Python | JavaScript | C** – Desenvolvimento backend e scripts eficientes  
 🔹 **HTML | CSS | Sass | Tailwind CSS** – Desenvolvimento web responsivo e estilizado  
+🔹 **ADVPL** – Desenvolvimento para o sistema **Protheus (Totvs)**  
 
 ### 🏗️ **Frameworks e Bibliotecas**  
 🔹 **Django | CodeIgniter | Angular | Bootstrap** – Desenvolvimento backend e frontend  
