@@ -8,7 +8,7 @@
 
 ## 📌 Sobre mim
 Sou estudante do curso **Tecnologia em Sistemas para Internet** no **Instituto Federal de Charqueadas (IFSUL)**.  
-Possuo mais de **2 anos de experiência** na área de TI e já trabalhei com diversas tecnologias e projetos.  
+Possuo mais de **3 anos de experiência** na área de Desenvolvimento, e já trabalhei com diversas tecnologias e projetos.  
 Atualmente, estou focado em desenvolvimento em **PHP**.
 Em contrapartida, já trabalhei com outras linguagens como **Python** e também **JavaScript**, **ADVPL**, além de linguagens
 direcionadas ao front-end, como **HTML** e **CSS**, com aprimoramento em **Bootstrap**, **Sass** e **Tailwind CSS**, alinhando-me ao desenvolvimento **full-stack**
@@ -51,19 +51,3 @@ sempre buscando aprender e evoluir profissionalmente.
 
 🚀 **Seja bem-vindo ao meu perfil!** Sempre aberto a colaborações, novas oportunidades e desafios!  
 Se gostou dos meus projetos, sinta-se à vontade para contribuir ou entrar em contato.  
-<!--
-## Hi there 👋
-
-**mateussperess/mateussperess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
