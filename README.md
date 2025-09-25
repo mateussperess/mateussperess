@@ -6,18 +6,18 @@
 
 ---
 
-## 📌 Sobre mim
+#### 📌 Sobre mim
 Sou estudante do curso **Tecnologia em Sistemas para Internet** no **Instituto Federal de Charqueadas (IFSUL)**. Atualmente no 4º semestre (4/6).  
 Desenvolvedor Full Stack com experiência em sistemas ERP e aplicações web modernas. Destaque em eventos como INFOMATRIX e MOCITEC, com atuação prática em projetos de integração com Protheus, desenvolvimento em PHP (CodeIgniter/Laravel), JavaScript e bancos MySQL. Perfil proativo, voltado à entrega de soluções e melhorias contínuas.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas  
+#### 🛠️ Tecnologias e Ferramentas  
 PHP, Codeigniter4, Python, Django, MySQL, Postgres, Javascript, NodeJS, ReactJS, HTML, CSS, Sass, Restful, API Rest, Git workflow.
 
 ---
 
-## 🎓 Formação
+#### 🎓 Formação
 
 #### 2024 - ATUAL | TECNÓLOGO EM SISTEMAS PARA INTERNET
 - Curso Superior em Tecnologia de Sistemas para Internet - Instituto Federal Sul-Rio Grandense Campus Charqueadas
@@ -30,7 +30,7 @@ PHP, Codeigniter4, Python, Django, MySQL, Postgres, Javascript, NodeJS, ReactJS,
 
 ---
 
-## 👨🏻‍💻 Experiências
+#### 👨🏻‍💻 Experiências
 
 #### 2025 - ATUAL | HOSPITAL REGIONAL DE SÃO JERÔNIMO | Estágio em Desenvolvimento de Software
 - Desenvolvimento full-stack voltado para implementação de novas ferramentas que abstraem recursos de sistemas legado visando melhor usabilidade de colaboradores;
@@ -47,18 +47,22 @@ PHP, Codeigniter4, Python, Django, MySQL, Postgres, Javascript, NodeJS, ReactJS,
 
 ---
 
-## 🏆 Projetos e Conquistas
+#### 🏆 Projetos e Conquistas
 ✅ **1º lugar na Mocitec** – Como bolsista voluntário do projeto **ROTA CRIC**, o projeto foi premiado na categoria de **Ensino Médio Técnico** (IFSUL - 2023).  
 ✅ **1º lugar na Mocitec** – Apresentei o projeto **ROTA CRIC** e fui premiado na categoria de **Ensino Superior e Pós-Graduação** (IFSUL - 2024).  
 🥉 **Medalha de Bronze no Infomatrix Brasil** – Apresentei o mesmo projeto, reebendo **Medalha de Bronze** e certificação de reconhecimento pela **ABRIC** por incentivo à ciência.  
 🏅 **Aluno Destaque** – Recebi esse reconhecimento no **Instituto Federal de Educação, Ciência e Tecnologia - Charqueadas** (2023).
 
-## 📫 Como me encontrar
+---
+
+#### 📫 Como me encontrar
 - 🔗 LinkedIn: [@mateuspereslopes](https://www.linkedin.com/in/mateuspereslopes)  
 - 📧 E-mail: [mateuspereslopesl@outlook.com](mailto:mateuspereslopesl@outlook.com)  
 - 🌎 Portfólio: [@mateussperess](https://github.com/mateussperess)  
 
 ---
 
-🚀 **Seja bem-vindo ao meu perfil!** Sempre aberto a colaborações, novas oportunidades e desafios!  
+#### 🚀 **Seja bem-vindo ao meu perfil!** 
+Sempre aberto a colaborações, novas oportunidades e desafios!  
 Se gostou dos meus projetos, sinta-se à vontade para contribuir ou entrar em contato.  
+
