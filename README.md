@@ -20,9 +20,8 @@
 
 <div align="justify">
 
-Sou estudante do curso **Tecnologia em Sistemas para Internet** no **Instituto Federal de Charqueadas (IFSUL)**. Atualmente no 4º semestre (4/6).  
-
-Desenvolvedor Full Stack com experiência em sistemas ERP e aplicações web modernas. Destaque em eventos como INFOMATRIX e MOCITEC, com atuação prática em projetos de integração com Protheus, desenvolvimento em PHP (CodeIgniter/Laravel), JavaScript e bancos MySQL. Perfil proativo, voltado à entrega de soluções e melhorias contínuas.
+Sou estudante do curso **Tecnologia em Sistemas para Internet** no **Instituto Federal de Charqueadas (IFSUL)**. Atualmente no 4º semestre (4/6). Desenvolvedor Full Stack com experiência em sistemas ERP e aplicações web modernas. 
+Destaque em eventos como INFOMATRIX e MOCITEC, com atuação prática em projetos de integração com Protheus, desenvolvimento em PHP (CodeIgniter/Laravel), JavaScript e bancos MySQL. Perfil proativo, voltado à entrega de soluções e melhorias contínuas.
 
 </div>
 
