@@ -3,7 +3,7 @@
 # E aí! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=💻+Desenvolvedor+Full+Stack;🎓+Estudante+de+TSI+no+IFSUL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=💻+Desenvolvedor+Full+Stack;🎓+Estudante+do+TSI+no+IFSUL" alt="Typing SVG" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header"/>
