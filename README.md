@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-Fala! Sou o Mateus, tenho 21 anos e atualmente estou no 5º semestre de **Tecnologia em Sistemas para Internet** no **IFSUL Charqueadas**. 
+Me chamo Mateus, tenho 21 anos e atualmente estou no 5º semestre de **Tecnologia em Sistemas para Internet** no **IFSUL Charqueadas**. 
 
 Trabalho com desenvolvimento full stack, principalmente com integrações de sistemas ERP e aplicações web. Já passei por projetos com Protheus (TOTVS), PHP (CodeIgniter/Laravel), JavaScript e MySQL. Levei uns prêmios na INFOMATRIX e MOCITEC com um projeto que desenvolvi com alguns colegas, e curto muito o desafio de resolver problemas e otimizar processos.
 
